@@ -1,4 +1,5 @@
 #统一格式
+spring:
   jackson:
     date-format: yyyy-MM-dd #如果使用字符串表示，用这行设置格式
     timezone: GMT+8
