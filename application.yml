@@ -5,5 +5,4 @@ spring:
     timezone: GMT+8
     serialization:
     write-dates-as-timestamps: false #使用时间戳，使用数值timestamp表示日期
-    test: 123123215346666666666666666
 
