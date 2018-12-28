@@ -1,0 +1,8 @@
+ratel:
+#指定feign访问地址，用于开发测试
+  demo: localhost:8101
+  exception:
+    '1001': 参数异常！
+    '2001': redis异常！
+    '1000': {0}
+
