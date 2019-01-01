@@ -1,7 +1,3 @@
-#本地配置
-server:
-  port: 8101
-
 
 spring:
   datasource:
