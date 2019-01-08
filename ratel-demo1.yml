@@ -8,7 +8,7 @@ spring:
 
 #swagger http://localhost:ip/swagger-ui.html#!
 swagger:
-  title: demo
+  title: demo1
   description: demo接口文档
   version: 1.0
   basePackage: com.ratel.demo.controller
