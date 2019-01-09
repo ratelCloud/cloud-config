@@ -4,3 +4,8 @@ swagger:
   description: es接口文档
   version: 1.0
   basePackage: com.ratel.es.controller
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
