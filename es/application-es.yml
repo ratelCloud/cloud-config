@@ -1,7 +1,7 @@
 #swagger http://localhost:ip/swagger-ui.html#!
 swagger:
   title: es
-  description: es接口文档
+  description: es接口文档,仅适用于2.2.0 其余版本未测试
   version: 1.0
   basePackage: com.ratel.es.controller
 
